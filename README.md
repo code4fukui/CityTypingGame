@@ -1,5 +1,7 @@
 # CityTypingGame
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A game where you quickly type the names of 20 randomly selected local government entities.
 
 ## Demo
