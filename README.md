@@ -20,3 +20,6 @@ https://code4fukui.github.io/CityTypingGame/
 
 ## Forked From
 - Originally forked from [TypingGame](https://github.com/takerucam/TypingGame)
+
+## License
+MIT License — see [LICENSE](LICENSE).

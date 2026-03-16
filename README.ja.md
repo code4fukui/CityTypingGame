@@ -1,6 +1,6 @@
 # CityTypingGame
 
-地方公共団体名を早打ちするゲームです。
+地方公共団体の名称を素早く入力するゲームです。
 
 ## デモ
 https://code4fukui.github.io/CityTypingGame/
